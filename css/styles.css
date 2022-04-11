@@ -1,0 +1,17 @@
+body{
+    background: #eaf6f6;;
+}
+h1{
+    color:#6B955A;
+}
+h2{
+    color:#6B955A;
+}
+hr{
+   
+    width: 5%;
+    border-width: 6px;
+    background-color: transparent;
+    border-style: none none dotted;
+    
+}

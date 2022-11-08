@@ -1,1 +1,114 @@
-<mxfile host="app.diagrams.net" modified="2022-11-08T06:26:46.773Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 OPR/91.0.4516.106" version="20.5.3" etag="pJUChAW-HBKkmUKjZpmC" type="github"><diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">7ZjbctowEIafhksYH8LpEggkM22SmZK218JabDWy5MoCQ56+K1uObZzSZJqUdIYrW7/W2tWu9rOh48/i3ZUiSXQjKfCO59Bdx7/seJ7reT5ejLIvlNHQLYRQMWqNKmHJHsGKjlU3jELaMNRScs2SphhIISDQDY0oJbOm2VrypteEhNASlgHhbfU7ozqyu/CGlX4NLIxKz+5gXMzEpDS2O0kjQmVWk/x5x58pKXVxF+9mwE3yyrwUzy1+M/sUmAKhX/IAvd3tbz8Ng+Fo9TnbphRurvtd1y6zJXxjd3ynwiAiStuo9b5MRZqxmBOBo2mkY46ii7epRltbN4wA56Rij1JoUloEZsAEqPt9Yqy0ArNGyElqimOeae+ljAuUhl1Nsnu7AhmDVns0sbMXNs3lObPDrCrasDxTUa1g3tiKxB6U8GnlKpd4Y9OZD7+moO5WP8xx8xxOVsCLRzteX5AY8NLxBhwdTFcK70Kd77BQWCOng58bU35MEZeq40/yNiD7aqJ6vJ/IlGkmRW15jIsdOmi7JGbLCtYNjzFhXMvcZR/MoFj2wO28mHnyRqq1Tc7y3eZbv4c0NX5uGOegbDnLgHOL2eKukLkMSCXfrdcswJQ5tuBFLPkUrn3hwI7ECYdeIGO7KicBRNjGoJqtzZl4KIRIa0OHiamft8iyrEcVyXpMFobHG8KrnTLbQbUesNWesrjgRtNVQIXfY3je10xgfEXQC0o0MZVCPcXrBk9Pl2xRVGkXY1/0jc9cTrs+BjDqJSJEH1nENCwT3C46yhCvzcZTcoNOqO2gejeZBruRW2ZWyU2NsMCUVUq74Y7j4cVt6A2afdhv96E7eqYPh69vQxzWOvE10PNb0GvBDgSdmNcHjlZ4Yh/uI4YndorygvGyBGskm0Wfa8ZA8d1h1wC+ktm8Eqa5gBMmlywwdDwo4StrksqNCuCPRxnfl0SFcHTFC9t7tPEubNdYAcfW3TZfjWdw/g045zQjihpySqVYaqJss3OqiMhtiEDsqKMc9T4IRy9OylHXeTuUNsnZguu7ofTgi8Z95pPmWZSO/iVK+2eUNgwHZ5SeDKVbgoE53/C3m36OotdfULpkCnMmjzO0fB+emqGDkzJ03PX+d4Qefo1+TIYOzwxtGI7ODD0VQye8+AZ1LqWQOU/bHF3uUw0IE2dCYyaOgtT/ICAdnRSkb4LR9/vMHJ+UkShV/4Hm5rV/kv35Lw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-11-08T06:51:41.606Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 OPR/91.0.4516.106" etag="P-4ya08FuzeoD98IjIW8" version="20.5.3" type="github">
+  <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
+    <mxGraphModel dx="868" dy="521" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="dNxyNK7c78bLwvsdeMH5-11" value="Orgchart" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;glass=0;" parent="1" vertex="1">
+          <mxGeometry x="40" y="80" width="710" height="290" as="geometry" />
+        </mxCell>
+        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="Tessa Miller" position="CFO" location="Office 1" email="me@example.com" placeholders="1" link="https://www.draw.io" id="dNxyNK7c78bLwvsdeMH5-12">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
+            <mxGeometry x="260" y="50" width="180" height="70" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="dNxyNK7c78bLwvsdeMH5-13" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" parent="dNxyNK7c78bLwvsdeMH5-11" source="dNxyNK7c78bLwvsdeMH5-12" target="dNxyNK7c78bLwvsdeMH5-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="Edward Morrison" position="Brand Manager" location="Office 2" email="me@example.com" placeholders="1" link="https://www.draw.io" id="dNxyNK7c78bLwvsdeMH5-14">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-10-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
+            <mxGeometry x="40" y="180" width="180" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="dNxyNK7c78bLwvsdeMH5-15" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" parent="dNxyNK7c78bLwvsdeMH5-11" source="dNxyNK7c78bLwvsdeMH5-12" target="dNxyNK7c78bLwvsdeMH5-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="Evan Valet" position="HR Director" location="Office 4" email="me@example.com" placeholders="1" link="https://www.draw.io" id="dNxyNK7c78bLwvsdeMH5-16">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-9-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
+            <mxGeometry x="260" y="180" width="180" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="dNxyNK7c78bLwvsdeMH5-17" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" parent="dNxyNK7c78bLwvsdeMH5-11" source="dNxyNK7c78bLwvsdeMH5-12" target="dNxyNK7c78bLwvsdeMH5-18" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="Alison Donovan" position="System Admin" location="Office 3" email="me@example.com" placeholders="1" link="https://www.draw.io" id="dNxyNK7c78bLwvsdeMH5-18">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
+            <mxGeometry x="490" y="180" width="180" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="LL_x_WGqo3-1e6lpiuNf-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Times New Roman;fontSize=18;" edge="1" parent="1" source="LL_x_WGqo3-1e6lpiuNf-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LL_x_WGqo3-1e6lpiuNf-2" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px;&quot;&gt;User Experience(UX) Design&amp;nbsp;&lt;br&gt;Ananya &amp;amp; Suvojit&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="440" width="160" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="LL_x_WGqo3-1e6lpiuNf-3" value="User Interface(UI)&lt;br&gt;Aryadip &amp;amp; Luvkush" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="240" y="440" width="160" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="LL_x_WGqo3-1e6lpiuNf-4" value="Application Programming Interface (API)&lt;br&gt;Dibyendu &amp;amp; Subhankar" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="440" y="440" width="160" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="LL_x_WGqo3-1e6lpiuNf-5" value="Database Design(DB)&lt;br&gt;&lt;br&gt;Vishal &amp;amp; Somnath" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="640" y="440" width="160" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="LL_x_WGqo3-1e6lpiuNf-9" value="Tools&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;a style=&quot;color: rgb(26, 13, 171); text-decoration-line: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0.1); outline: 0px; font-family: arial, sans-serif; font-size: small; text-align: left; background-color: rgb(255, 255, 255);&quot; data-jrwt=&quot;1&quot; data-cthref=&quot;/url?sa=t&amp;amp;rct=j&amp;amp;q=&amp;amp;esrc=s&amp;amp;source=web&amp;amp;cd=&amp;amp;ved=2ahUKEwimpeWu_J37AhVpSGwGHYtFAUUQFnoECBQQAQ&amp;amp;url=https%3A%2F%2Fwww.thesaurus.com%2Fe%2Fgrammar%2Fbullet-point%2F&amp;amp;usg=AOvVaw36HovnqZUQ4N3tA4n6XIDp&quot; data-ctbtn=&quot;0&quot; data-ved=&quot;2ahUKEwimpeWu_J37AhVpSGwGHYtFAUUQFnoECBQQAQ&quot; data-usg=&quot;AOvVaw36HovnqZUQ4N3tA4n6XIDp&quot; data-jsarwt=&quot;1&quot; href=&quot;https://www.google.com/url?sa=t&amp;amp;rct=j&amp;amp;q=&amp;amp;esrc=s&amp;amp;source=web&amp;amp;cd=&amp;amp;ved=2ahUKEwimpeWu_J37AhVpSGwGHYtFAUUQFnoECBQQAQ&amp;amp;url=https%3A%2F%2Fwww.thesaurus.com%2Fe%2Fgrammar%2Fbullet-point%2F&amp;amp;usg=AOvVaw36HovnqZUQ4N3tA4n6XIDp&quot;&gt;&lt;h3 style=&quot;font-weight: 400; margin: 0px 0px 3px; padding: 5px 0px 0px; font-size: 20px; line-height: 1.3; display: inline-block;&quot; class=&quot;LC20lb MBeuO DKV0Md&quot;&gt;•&lt;/h3&gt;&lt;/a&gt;&amp;nbsp;Excel Sheet&amp;nbsp;&amp;nbsp;&lt;a style=&quot;color: rgb(26, 13, 171); text-decoration-line: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0.1); outline: 0px; font-family: arial, sans-serif; font-size: small; text-align: left; background-color: rgb(255, 255, 255);&quot; data-jrwt=&quot;1&quot; data-cthref=&quot;/url?sa=t&amp;amp;rct=j&amp;amp;q=&amp;amp;esrc=s&amp;amp;source=web&amp;amp;cd=&amp;amp;ved=2ahUKEwimpeWu_J37AhVpSGwGHYtFAUUQFnoECBQQAQ&amp;amp;url=https%3A%2F%2Fwww.thesaurus.com%2Fe%2Fgrammar%2Fbullet-point%2F&amp;amp;usg=AOvVaw36HovnqZUQ4N3tA4n6XIDp&quot; data-ctbtn=&quot;0&quot; data-ved=&quot;2ahUKEwimpeWu_J37AhVpSGwGHYtFAUUQFnoECBQQAQ&quot; data-usg=&quot;AOvVaw36HovnqZUQ4N3tA4n6XIDp&quot; data-jsarwt=&quot;1&quot; href=&quot;https://www.google.com/url?sa=t&amp;amp;rct=j&amp;amp;q=&amp;amp;esrc=s&amp;amp;source=web&amp;amp;cd=&amp;amp;ved=2ahUKEwimpeWu_J37AhVpSGwGHYtFAUUQFnoECBQQAQ&amp;amp;url=https%3A%2F%2Fwww.thesaurus.com%2Fe%2Fgrammar%2Fbullet-point%2F&amp;amp;usg=AOvVaw36HovnqZUQ4N3tA4n6XIDp&quot;&gt;&lt;h3 style=&quot;font-weight: 400; margin: 0px 0px 3px; padding: 5px 0px 0px; font-size: 20px; line-height: 1.3; display: inline-block;&quot; class=&quot;LC20lb MBeuO DKV0Md&quot;&gt;•&lt;/h3&gt;&lt;/a&gt;Draw Io" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="30" y="640" width="170" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="LL_x_WGqo3-1e6lpiuNf-10" value="Tools&lt;br&gt;&lt;a style=&quot;color: rgb(26, 13, 171); -webkit-tap-highlight-color: rgba(0, 0, 0, 0.1); outline: 0px; font-family: arial, sans-serif; font-size: small; text-align: left; background-color: rgb(255, 255, 255);&quot; data-jrwt=&quot;1&quot; data-cthref=&quot;/url?sa=t&amp;amp;rct=j&amp;amp;q=&amp;amp;esrc=s&amp;amp;source=web&amp;amp;cd=&amp;amp;ved=2ahUKEwimpeWu_J37AhVpSGwGHYtFAUUQFnoECBQQAQ&amp;amp;url=https%3A%2F%2Fwww.thesaurus.com%2Fe%2Fgrammar%2Fbullet-point%2F&amp;amp;usg=AOvVaw36HovnqZUQ4N3tA4n6XIDp&quot; data-ctbtn=&quot;0&quot; data-ved=&quot;2ahUKEwimpeWu_J37AhVpSGwGHYtFAUUQFnoECBQQAQ&quot; data-usg=&quot;AOvVaw36HovnqZUQ4N3tA4n6XIDp&quot; data-jsarwt=&quot;1&quot; href=&quot;https://www.google.com/url?sa=t&amp;amp;rct=j&amp;amp;q=&amp;amp;esrc=s&amp;amp;source=web&amp;amp;cd=&amp;amp;ved=2ahUKEwimpeWu_J37AhVpSGwGHYtFAUUQFnoECBQQAQ&amp;amp;url=https%3A%2F%2Fwww.thesaurus.com%2Fe%2Fgrammar%2Fbullet-point%2F&amp;amp;usg=AOvVaw36HovnqZUQ4N3tA4n6XIDp&quot;&gt;&lt;h3 style=&quot;font-weight: 400; margin: 0px 0px 3px; padding: 5px 0px 0px; font-size: 20px; line-height: 1.3; display: inline-block;&quot; class=&quot;LC20lb MBeuO DKV0Md&quot;&gt;•&lt;/h3&gt;&lt;/a&gt;React Js" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="240" y="640" width="180" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="LL_x_WGqo3-1e6lpiuNf-11" value="Tools&lt;br&gt;&lt;a href=&quot;https://www.google.com/url?sa=t&amp;amp;rct=j&amp;amp;q=&amp;amp;esrc=s&amp;amp;source=web&amp;amp;cd=&amp;amp;ved=2ahUKEwimpeWu_J37AhVpSGwGHYtFAUUQFnoECBQQAQ&amp;amp;url=https%3A%2F%2Fwww.thesaurus.com%2Fe%2Fgrammar%2Fbullet-point%2F&amp;amp;usg=AOvVaw36HovnqZUQ4N3tA4n6XIDp&quot; data-jsarwt=&quot;1&quot; data-usg=&quot;AOvVaw36HovnqZUQ4N3tA4n6XIDp&quot; data-ved=&quot;2ahUKEwimpeWu_J37AhVpSGwGHYtFAUUQFnoECBQQAQ&quot; data-ctbtn=&quot;0&quot; data-cthref=&quot;/url?sa=t&amp;amp;rct=j&amp;amp;q=&amp;amp;esrc=s&amp;amp;source=web&amp;amp;cd=&amp;amp;ved=2ahUKEwimpeWu_J37AhVpSGwGHYtFAUUQFnoECBQQAQ&amp;amp;url=https%3A%2F%2Fwww.thesaurus.com%2Fe%2Fgrammar%2Fbullet-point%2F&amp;amp;usg=AOvVaw36HovnqZUQ4N3tA4n6XIDp&quot; data-jrwt=&quot;1&quot; style=&quot;color: rgb(26, 13, 171); -webkit-tap-highlight-color: rgba(0, 0, 0, 0.1); outline: 0px; font-family: arial, sans-serif; font-size: small; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;&lt;h3 class=&quot;LC20lb MBeuO DKV0Md&quot; style=&quot;font-weight: 400; margin: 0px 0px 3px; padding: 5px 0px 0px; font-size: 20px; line-height: 1.3; display: inline-block;&quot;&gt;•&lt;/h3&gt;&lt;/a&gt;&amp;nbsp;Java Spring Boot" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="440" y="645" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="LL_x_WGqo3-1e6lpiuNf-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Times New Roman;fontSize=11;" edge="1" parent="1" source="LL_x_WGqo3-1e6lpiuNf-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="737" y="710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LL_x_WGqo3-1e6lpiuNf-12" value="Tools&lt;br&gt;&lt;a href=&quot;https://www.google.com/url?sa=t&amp;amp;rct=j&amp;amp;q=&amp;amp;esrc=s&amp;amp;source=web&amp;amp;cd=&amp;amp;ved=2ahUKEwimpeWu_J37AhVpSGwGHYtFAUUQFnoECBQQAQ&amp;amp;url=https%3A%2F%2Fwww.thesaurus.com%2Fe%2Fgrammar%2Fbullet-point%2F&amp;amp;usg=AOvVaw36HovnqZUQ4N3tA4n6XIDp&quot; data-jsarwt=&quot;1&quot; data-usg=&quot;AOvVaw36HovnqZUQ4N3tA4n6XIDp&quot; data-ved=&quot;2ahUKEwimpeWu_J37AhVpSGwGHYtFAUUQFnoECBQQAQ&quot; data-ctbtn=&quot;0&quot; data-cthref=&quot;/url?sa=t&amp;amp;rct=j&amp;amp;q=&amp;amp;esrc=s&amp;amp;source=web&amp;amp;cd=&amp;amp;ved=2ahUKEwimpeWu_J37AhVpSGwGHYtFAUUQFnoECBQQAQ&amp;amp;url=https%3A%2F%2Fwww.thesaurus.com%2Fe%2Fgrammar%2Fbullet-point%2F&amp;amp;usg=AOvVaw36HovnqZUQ4N3tA4n6XIDp&quot; data-jrwt=&quot;1&quot; style=&quot;color: rgb(26, 13, 171); -webkit-tap-highlight-color: rgba(0, 0, 0, 0.1); outline: 0px; font-family: arial, sans-serif; font-size: small; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;&lt;h3 class=&quot;LC20lb MBeuO DKV0Md&quot; style=&quot;font-weight: 400; margin: 0px 0px 3px; padding: 5px 0px 0px; font-size: 20px; line-height: 1.3; display: inline-block;&quot;&gt;•&lt;/h3&gt;&lt;/a&gt;&amp;nbsp;PostGres SQL" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="647" y="645" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="LL_x_WGqo3-1e6lpiuNf-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Times New Roman;fontSize=18;" edge="1" parent="1" source="LL_x_WGqo3-1e6lpiuNf-9" target="LL_x_WGqo3-1e6lpiuNf-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LL_x_WGqo3-1e6lpiuNf-14" value="&lt;font size=&quot;3&quot;&gt;To design the UI with HTML, CSS , React Js , to make Home&amp;nbsp; Pg , About pg, Market Search page , User Account Page, User Portfolio Page&lt;/font&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontFamily=Times New Roman;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="200" y="1240" width="230" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="LL_x_WGqo3-1e6lpiuNf-15" value="&lt;font size=&quot;3&quot;&gt;To fetch live stock cost , OHLC from NSE website or any NPM package for market.&lt;/font&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontFamily=Times New Roman;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="414" y="879" width="230" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="LL_x_WGqo3-1e6lpiuNf-16" value="&lt;font size=&quot;3&quot;&gt;To design the DB for users which iclude Account Details like DOB , PAN , Password , email ID&amp;nbsp;&lt;/font&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontFamily=Times New Roman;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="640" y="1250" width="230" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="LL_x_WGqo3-1e6lpiuNf-17" value="&lt;font size=&quot;3&quot;&gt;To design the UI with HTML, CSS , React Js , to make Home&amp;nbsp; Pg , About pg, Market Search page , User Account Page, User Portfolio Page&lt;/font&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontFamily=Times New Roman;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="10" y="879" width="230" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="LL_x_WGqo3-1e6lpiuNf-18" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontFamily=Times New Roman;fontSize=11;endWidth=38;endSize=8.22;entryX=0.548;entryY=-0.01;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="LL_x_WGqo3-1e6lpiuNf-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="329" y="770" as="sourcePoint" />
+            <mxPoint x="330" y="1110" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LL_x_WGqo3-1e6lpiuNf-19" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontFamily=Times New Roman;fontSize=11;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="LL_x_WGqo3-1e6lpiuNf-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="740" y="770" as="sourcePoint" />
+            <mxPoint x="460" y="1120" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LL_x_WGqo3-1e6lpiuNf-25" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontFamily=Times New Roman;fontSize=11;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LL_x_WGqo3-1e6lpiuNf-11" target="LL_x_WGqo3-1e6lpiuNf-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="970" as="sourcePoint" />
+            <mxPoint x="520" y="880" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="530" y="820" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
